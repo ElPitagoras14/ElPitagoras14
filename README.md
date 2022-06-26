@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elpitagoras14&label=Profile%20views&color=0e75b6&style=flat" alt="elpitagoras14" /> </p>
 
-- 🌱 I’m currently learning **clojure**
+- 🌱 I’m currently learning **c# in Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElPitagoras14](https://github.com/ElPitagoras14)
 
