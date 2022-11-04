@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElPitagoras14](https://github.com/ElPitagoras14)
 
+- 💼 My own website powered by Github Pages [here](https://elpitagoras14.github.io/)
+
 - 💬 Ask me about **java, python, clojure and javascript**
 
 - 📫 How to reach me **jhony-2001-2011@outlook.com**
