@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElPitagoras14](https://github.com/ElPitagoras14)
 
-- 💼 My own website powered by Github Pages [here](https://elpitagoras14.github.io/)
+- 💼 My own website powered by Github Pages at [https://elpitagoras14.github.io/](https://elpitagoras14.github.io/)
 
 - 💬 Ask me about **java, python, clojure and javascript**
 
