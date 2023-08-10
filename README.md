@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elpitagoras14&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elpitagoras14" /></p><br><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpitagoras14&show_icons=true&theme=dracula&locale=en" alt="elpitagoras14" /></p>
+
