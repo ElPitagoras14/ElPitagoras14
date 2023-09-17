@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elpitagoras14" target="blank"><img src="https://img.shields.io/twitter/follow/elpitagoras14?logo=twitter&style=for-the-badge" alt="elpitagoras14" /></a> </p>
 
-- 🌱 I’m currently learning **C# in Unity**
+- 🌱 I’m currently learning **React, FastAPI and Algorithm Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElPitagoras14](https://github.com/ElPitagoras14)
 
@@ -36,8 +36,8 @@
 <p><a href="https://www.buymeacoffee.com/jhonyg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jhonyg" /></a></p><br><br><br>
 
 
-<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elpitagoras14&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elpitagoras14" /></p><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpitagoras14&show_icons=true&theme=dracula&locale=en" alt="elpitagoras14" /></p>
--->
+
